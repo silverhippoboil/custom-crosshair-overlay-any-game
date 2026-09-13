@@ -1,0 +1,5 @@
+repository:
+  name: custom-crosshair-overlay-any-game
+  description: "Draw your crosshair over any game in windowed or borderless mode. One code shares it across machines. Free, no ads, no account."
+  topics: crosshair, overlay, gaming, fps, windows, dotnet, free, utility
+  has_wiki: false
