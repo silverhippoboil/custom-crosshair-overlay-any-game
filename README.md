@@ -113,3 +113,7 @@ Screens show a Fortnite screenshot and the Fortnite mark (Epic Games), a screens
 **Description:** Custom crosshair overlay for any game: pixel-perfect editor, per-game profiles that switch on their own, offset calibration for third-person shooters. No injection, no game hooks.
 
 **Topics:** crosshair, crosshair-overlay, custom-crosshair, fortnite-crosshair, gaming-overlay, fortnite, rust, apex-legends, windows
+
+---
+
+Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
