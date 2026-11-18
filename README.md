@@ -12,7 +12,7 @@
 <h2 align="center">Bead</h2>
 <p align="center"><b>A pixel-perfect crosshair drawn above any game. Profiles switch when the game comes to the front, and a two-step calibration puts the crosshair where your shots actually land.</b></p>
 
-<p align="center"><b>Free · Windows 10 and 11 · open source.</b> **v1.2.6 is out now** — grab it from [Releases](releases/latest).</p>
+<p align="center"><b>Free · Windows 10 and 11 · open source.</b> <b>v1.2.6 is out now</b> — grab it from <a href="releases/latest">Releases</a>.</p>
 
 
 ## See it work
@@ -113,7 +113,3 @@ Screens show a Fortnite screenshot and the Fortnite mark (Epic Games), a screens
 **Description:** Custom crosshair overlay for any game: pixel-perfect editor, per-game profiles that switch on their own, offset calibration for third-person shooters. No injection, no game hooks.
 
 **Topics:** crosshair, crosshair-overlay, custom-crosshair, fortnite-crosshair, gaming-overlay, fortnite, rust, apex-legends, windows
-
----
-
-Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
